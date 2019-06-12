@@ -3,10 +3,10 @@ Financial Analysis
 ---------------------------- 
 Total Months: 86 
 Total: $38382578
-Average  Change: $446309.0465116279 
-Greatest Increase in Profits: Date             Sep-2016
-Profit/Losses     1170593
+Average  Change: $-2315.1176470588234 
+Greatest Increase in Profits: Date                Sep-2016
+Profit/Losses    1.92616e+06
 dtype: object 
-Greatest Decrease in Profits: Date             Sep-2016
-Profit/Losses     1170593
+Greatest Decrease in Profits: Date                Apr-2010
+Profit/Losses   -2.19617e+06
 dtype: object
